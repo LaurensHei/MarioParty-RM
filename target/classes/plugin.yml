@@ -1,0 +1,12 @@
+name: MarioParty
+version: 1.0
+author: Laurens
+main: de.laurens.marioparty.MarioParty
+
+commands:
+  setlobby:
+    description: Set the lobbyspawn at your position.
+  jnr:
+    description: Set the start/end of the jump and run.
+  setspawn:
+    description: Set the spawn of the fields.
